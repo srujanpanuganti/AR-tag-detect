@@ -2,7 +2,7 @@
 This project is an implementation of AR-tag detection and Placing a virtual cube over the tag
 
 <p align="center">
-<img src="img/ref_marker.png" alt="ar" width="360">
+<img src="img/ref_marker.png" alt="ar" width="200">
 </p>
 <p align="center">
 <em>Aruco Marker, Source: gfycat</em>
